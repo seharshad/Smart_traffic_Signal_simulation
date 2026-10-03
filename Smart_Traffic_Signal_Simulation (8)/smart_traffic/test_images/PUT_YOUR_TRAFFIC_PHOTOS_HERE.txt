@@ -1,0 +1,5 @@
+Add your own traffic / road photos in this folder (.jpg or .png),
+then run:  python vehicle_detection.py
+
+Example: a photo of a busy road, a junction, or a CCTV-style traffic
+image. The AI model will detect cars, bikes, buses, and trucks in it.
